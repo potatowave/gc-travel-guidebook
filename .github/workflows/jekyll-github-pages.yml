@@ -1,7 +1,6 @@
 # In your repository's `.github/workflows/publish-to-github-pages.yaml` file.
 ---
 
-
 # Name of your GitHub Actions workflow.
 name: Publish to GitHub Pages
 
